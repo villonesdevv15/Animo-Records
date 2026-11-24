@@ -9,6 +9,9 @@ A simple desktop app to manage student records.
 
 <img width="918" height="653" alt="image" src="https://github.com/user-attachments/assets/66302efa-84c2-4d22-9700-511674b4d104" />
 
+# FLOW CHART
+<img width="2880" height="4080" alt="fundamentals flowchart " src="https://github.com/user-attachments/assets/164ec0f4-83a2-431f-a5e9-d4a4abdf65d0" />
+
 
 ## Features
 - Has a login screen (admin account: `admin` / `tagalogmasarap`)  <!--dagdagan niyo if possible like student>
